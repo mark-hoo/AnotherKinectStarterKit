@@ -1,0 +1,7 @@
+# Kinect + Processing 2
+
+## Basic Setup
+- Install Processing 2 (v2.0.3 as of Oct. 26, 2013)
+- Start Processing.app, it requires Java
+  - If you don't have Java yet, follow the instructions to install it.
+
